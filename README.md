@@ -20,6 +20,7 @@ We provide one Multi-Class, Multi-Label model currently that could be used to re
 ## Custom models
 
 If you need more accurate models or focused on specific area (e.g. military, different types of buildings, groups of people, etc.) please contact us: contact@datahunters.ai. We can train model for you based on your dataset or prepared by us. Cost depends on many things like dataset volume, number of output labels, quality of dataset, etc. 
+
 If you are Open Source contributor and want to build some interesing model with us, just let us know on dev@datahunters.ai!
 
 ## Licensing
@@ -32,4 +33,4 @@ Opinions are divided but usually the most important and valid license is specifi
 <br />
 <br />
 <br />
-[![DataHunters](http://datahunters.ai/assets/images/logo_full_small.png)](http://datahunters.ai)
+![DataHunters](http://datahunters.ai/assets/images/logo_full_small.png)
