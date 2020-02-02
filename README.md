@@ -25,12 +25,11 @@ If you are Open Source contributor and want to build some interesing model with 
 
 ## Licensing
 Licensing of Neural Network models is unfortunately not so obvious thing. Our whole work (presented in this repository) is shipped under liberal license - Apache 2.0 but final license of model could depend also on other things:
+
 * License of based model in case of situation when we used technique called Transfer Learning (it uses other trained model to take advantage of its "knowledge").
 * License of dataset that has been used to train model
 
 Opinions are divided but usually the most important and valid license is specified by author of model (in this case - by us, **so it will be Apache 2.0**).
 
-<br />
-<br />
-<br />
-![DataHunters](http://datahunters.ai/assets/images/logo_full_small.png)
+[![DataHunters](http://datahunters.ai/assets/images/logo_full_small.png)](http://datahunters.ai)
+
