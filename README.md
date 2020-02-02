@@ -9,7 +9,7 @@ We provide one Multi-Class, Multi-Label model currently that could be used to re
 
 | | |
 |-|-|
-| **Model path** | `zoo_models/zoo_inception_v1_based_coco.model` |
+| **Model path** | [`zoo_models/zoo_inception_v1_based_coco.model`](https://github.com/data-hunters/metadata-digger-ai/raw/master/zoo_models/zoo_inception_v1_based_coco.model) |
 | **Type/Method** | Artificial Neural Networks, Convolutional Neural Networks |
 | **Format** | Analytics Zoo |
 | **Type of problem** | Multi-Class, Multi-Label |
