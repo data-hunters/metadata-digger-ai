@@ -30,6 +30,9 @@ Licensing of Neural Network models is unfortunately not so obvious thing. Our wh
 * License of dataset that has been used to train model
 
 Opinions are divided but usually the most important and valid license is specified by author of model (in this case - by us, **so it will be Apache 2.0**).
+<br/>
+<br/>
+<br/>
 
 [![DataHunters](http://datahunters.ai/assets/images/logo_full_small.png)](http://datahunters.ai)
 
